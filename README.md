@@ -23,19 +23,14 @@ In this module a new user can register by submitting the  registration form. Use
  
 **ATTACK** 
 sql injection attacks are done using Select , insert and delete queries. 
+
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/e4b2b68e-e2f6-483d-89b9-b4a1bda40ab9)
 
 **CONCLUSION**
 The internet applications that make use of the database system face challenges in terms of security and protection of private data . It is important to know how to identify and remediate SQL injection vulnerabilities because the vast majority of data breaches are due to poorly coded web applications. Any code that constructs SQL statements should be reviewed for SQL injection vulnerabilities since a database server will execute all queries that are syntactically valid. Sql Injection Detection And Prevention System provides security by preventing sql injection attacks. This system also further prevents BruteForce attacks and DDos attacks. 
 
-**HOME PAGE**
-![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/b4df5a4d-f0e8-4b58-b8ad-853cdae83b50)
-
 **REGISTRATION PAGE**
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/0585752a-f60a-4e1a-92b3-c9ee7785e2ed)
-
-**LOGIN PAGE**
-![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/b35702e7-eb42-4eca-bbe8-f63f20fe08ba)
 
 **ADMIN HOME PAGE**
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/e0e49571-c555-4c6e-8a8d-de976549a7db)
@@ -45,14 +40,6 @@ The internet applications that make use of the database system face challenges i
 
 **VISITOR LIST**
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/eb326777-6e6b-4295-aa95-b0b1700fa416)
-
-**USER LOGIN**
-![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/1c496daa-190f-4465-9543-1f7fa50fdca0)
-
-![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/c43caaef-7339-4836-9883-6168c0304224)
-
-**PROFILE**
-![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/0e0b7f99-3f20-4284-9d58-91cf05f05f4f)
 
 **ATTACK**
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/cfa6fef2-1908-4a2f-a7b3-def0cd9cc445)
