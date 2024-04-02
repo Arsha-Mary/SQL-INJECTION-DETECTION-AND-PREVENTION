@@ -1,4 +1,5 @@
 # SQL-INJECTION-DETECTION-AND-PREVENTION
+
 SQL Injection Attack (SQLIA) is a type of code injection technique that threatens confidentiality, integrity, and availability of web databases. The attacker mostly exploits incorrectly filtered user inputs such as text fields in web applications and tries to insert malicious SQL statements into a legitimate query via the vulnerable user input. By doing so, the attacker can access, insert, modify, or delete critical information in a database without proper authorization. In this survey, we describe and categorize types of SQLIA, and analyze existing detection and prevention techniques against such attacks.
 
 **INTRODUCTION**
