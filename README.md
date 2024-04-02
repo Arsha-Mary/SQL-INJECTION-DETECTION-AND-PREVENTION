@@ -5,9 +5,13 @@ SQL Injection Attack (SQLIA) is a type of code injection technique that threaten
 SQL injection attack is widely used by attackers to gain unauthorized access to systems. This software system is developed to prevent unauthorized access to system using SQL injection attacks. This is done by adding unique value and a signature based authentication technique to verify authenticity. SQL injection is a major security issue these days that allows an attacker to gain access of a web system or application exploiting certain vulnerabilities. This method exploits various web application parameters such as transmitting the traveling form data parameters with an efficient integration of amino acid codes aligned in it. In other words, this software project puts forth a method to analyze and detect the malicious code to find out and prevent the attack. It uses an alternative algorithm for signature based scanning method; this method is based on a different divide and conquers strategy that detects attacks based on various time/space parameters. This innovative system has proved successful in preventing various SQL injection attacks based on its efficient attack detection strategies. 
 
 **MODULE DESCRIPTION**
+
 Project is divided into following modules 
+
 •	Admin login 
+
 •	User login/Registration 
+
 •	Attack 
 
 **ADMIN LOGIN**
