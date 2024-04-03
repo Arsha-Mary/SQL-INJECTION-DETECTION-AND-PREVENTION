@@ -26,6 +26,16 @@ In this module a new user can register by submitting the  registration form. Use
 **ATTACK** 
 sql injection attacks are done using Select , insert and delete queries. 
 
+The project is created as a web application which provides more security and integrity. Admin can login and get the users list details which includes ip address along with time of login. SQL injection attacks are prevented by making username in a specific format(eg: abc@gmail.com). Any query entered which is not in that particular format will be considered invalid. Brute force attack and DDos attacks are prevented by providing a fixed number of attempts for a particular login,which is set by the admin; Trying to login more than the limit will result in access denial.
+
+The proposed system can be updated to support php related attacks, an extension to handle php attacks may be added to the system.It can be further enhanced to deal with dynamic IPs.It is possible that an attacker is able to change IP addresses then our system will not be able to block all the ip addresses that the attacker is able to use.This project would be more effective if it is able to deal with attackers that change their ip addresses. 
+
+**ADVANTAGES OF PROPOSED SYSTEM**
+
+•	Prevention of SQL Injection. 
+•	Detects malicious code when anyone tries to input using SQL Injection. 
+•	Prevention of brute force attack and DDos 
+ 
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/e4b2b68e-e2f6-483d-89b9-b4a1bda40ab9)
 
 **CONCLUSION**
