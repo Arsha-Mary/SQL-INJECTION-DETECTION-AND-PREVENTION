@@ -45,6 +45,7 @@ The internet applications that make use of the database system face challenges i
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/eb326777-6e6b-4295-aa95-b0b1700fa416)
 
 **ATTACK**
+
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/cfa6fef2-1908-4a2f-a7b3-def0cd9cc445)
 
 **INSERT QUERY**
