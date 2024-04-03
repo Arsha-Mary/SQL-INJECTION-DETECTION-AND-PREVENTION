@@ -33,15 +33,19 @@ sql injection attacks are done using Select , insert and delete queries.
 The internet applications that make use of the database system face challenges in terms of security and protection of private data . It is important to know how to identify and remediate SQL injection vulnerabilities because the vast majority of data breaches are due to poorly coded web applications. Any code that constructs SQL statements should be reviewed for SQL injection vulnerabilities since a database server will execute all queries that are syntactically valid. Sql Injection Detection And Prevention System provides security by preventing sql injection attacks. This system also further prevents BruteForce attacks and DDos attacks. 
 
 **REGISTRATION PAGE**
+
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/0585752a-f60a-4e1a-92b3-c9ee7785e2ed)
 
 **ADMIN HOME PAGE**
+
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/e0e49571-c555-4c6e-8a8d-de976549a7db)
 
 **USER LIST**
+
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/fae55342-8496-4513-bd0c-7c021d04ae47)
 
 **VISITOR LIST**
+
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/eb326777-6e6b-4295-aa95-b0b1700fa416)
 
 **ATTACK**
@@ -49,13 +53,16 @@ The internet applications that make use of the database system face challenges i
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/cfa6fef2-1908-4a2f-a7b3-def0cd9cc445)
 
 **INSERT QUERY**
+
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/2e617eb7-e6c6-4bc8-9dfd-f14ae21c011d)
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/412158fc-647a-4f58-adbc-8865dca35521)
 
 **SELECT QUERY**
+
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/ccb52ffa-ef3c-4c61-96bf-69e02bab14a2)
 
 **DELETE QUERY**
+
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/2513b020-6257-4c9b-986e-3a35c592414d)
 ![image](https://github.com/Arsha-Mary/SQL-INJECTION-DETECTION-AND-PREVENTION/assets/122686375/bb7da78b-9a0f-41d2-be4b-f330f9716537)
 
